@@ -40,7 +40,6 @@ local lootCheckMark = nil
 local mainFrame = nil
 local contentFrame = nil
 
--- Hydra Aimbot Variables
 local TargetLine = nil
 local rainbowColor = OriginalCircleColor
 
