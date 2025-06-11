@@ -1,4 +1,4 @@
-Here's a [link](https://github.com/slavalavaparmedzhan0/Retrig-opensource/blob/main/RetriG-source.lua) to the file if you're too dumb to look at the files in the github repository: https://github.com/slavalavaparmedzhan0/Retrig-opensource/blob/main/RetriG-source.lua 
+Here's a link to the file if you're too dumb to look at the files in the github repository: https://github.com/slavalavaparmedzhan0/Retrig-opensource/blob/main/RetriG-source.lua 
 
 # Hi, im Kyss, i published ts for everyone, you can steal it, report it(but please, keep this repo) and do whatever you want.
 
