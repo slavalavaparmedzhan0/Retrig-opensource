@@ -1498,7 +1498,7 @@ local function CreateGUI()
     topBar.Parent = mainFrame
 
     local titleLabel = Instance.new("TextLabel")
-    titleLabel.Text = "RetriG: V2 [STOLEN SOURCE PUBLISHED BY KYSS]\n https://github.com/slavalavaparmedzhan0/Retrig-opensource/blob/main/RetriG-source.lua"
+    titleLabel.Text = "RetriG: V2 [STOLEN SOURCE PUBLISHED BY KYSS]\n https://discord.gg/sHvAjPqGu5"
     titleLabel.TextColor3 = Color3.fromRGB(220, 220, 255)
     titleLabel.TextSize = 16
     titleLabel.Font = Enum.Font.GothamBold
