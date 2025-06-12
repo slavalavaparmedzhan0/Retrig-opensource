@@ -8,6 +8,7 @@ Enjoy every line of this shitty script written by a **13 year old kid called Tri
 ## Features: (this version is pretty outdated ik)
 - shittiest handmade gui that i ever seen
 - aimbot (i know he has silent one, but currently only he has it)
+- player esp
 - grenade esp
 - vehicle esp
 - inventory viewer
