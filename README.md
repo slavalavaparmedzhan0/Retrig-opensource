@@ -1,4 +1,4 @@
-#NOW ITS DETECTED!!!!! but you can try to fix this
+# NOW ITS DETECTED!!!!! but you can try to fix this
 
 Here's a link to the file if you're too dumb to look at the files in the github repository: https://github.com/slavalavaparmedzhan0/Retrig-opensource/blob/main/RetriG-source.lua 
 
